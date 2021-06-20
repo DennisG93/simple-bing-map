@@ -1,0 +1,11 @@
+.map-form-container {
+  display: flex;
+}
+.map{
+	border: 1px solid black;
+	width: 85vw;
+	float: right;
+	height: 90vh;
+	padding: 10px;
+	margin: 5px;
+}

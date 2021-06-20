@@ -1,0 +1,8 @@
+{
+  "short_name": "Bing map locations app",
+  "name": "Simple locations map using bing api",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
